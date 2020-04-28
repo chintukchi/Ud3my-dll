@@ -1,3 +1,3 @@
-# *Nasir Khan (r0ot h3x49)*
+# *Ankush_jha*
 
- - **https://r0oth3x49.herokuapp.com**
+# telegram_channel - **https://t.me/chintukchij*
