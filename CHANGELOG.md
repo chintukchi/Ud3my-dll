@@ -3,7 +3,7 @@
 ## 0.5 (2018-05-21)
 
 Features:
-  - Authentication using cookies thanks to @jhonyyy90 for sharing credentials (option: `-k / --cookies`).
+  - Authentication using cookies by inspect site (option: `-k / --cookies`).
   - Download/save lecture names to file thanks to @serhattsnmz (option: `--names`).
   - Download lectures containing unsafe (`unicode`) characters in title/name thanks to @tofanelli and @Chlitzxer (option: `--unsafe`).
 
